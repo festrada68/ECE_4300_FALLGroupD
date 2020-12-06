@@ -8,4 +8,6 @@ Freddy Estrada:
 
 Raymond Banda:
 
-Kyle Gerfen
+Kyle Gerfen:
+
+Personal note from Jeff Hymas: This was one of the best project groups I have had the opporunity to work with in my six years at school. I hope to get the opportunity to work with everyone again in the future.
