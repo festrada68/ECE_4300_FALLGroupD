@@ -6,7 +6,7 @@ Jeffrey Hymas: Collaborated in overall design, AXI memory mapping, AES Core modi
 
 Freddy Estrada: Collaborated in research, testing/verification, overall block design, packaging AES encryption into an IP, AXI memory mapping, SDK c++ application, benchmarking in SDK. Wrote abstract and introduction portion of paper, recorded demonstration video. 
 
-Raymond Banda:
+Raymond Banda: Collaborated in reseach, block design, SDK c++ application code revision, and benchmarking. Wrote Results/Evaluation of AES paper and collaborated with team to create powerpoint. 
 
 Kyle Gerfen:
 
