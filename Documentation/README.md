@@ -4,7 +4,7 @@ Johnny Wilson: Collaborated in research, overall design, HDL troubleshooting, AX
 
 Jeffrey Hymas: Collaborated in overall design, AXI memory mapping, AES Core modification and testbenching, and SDK c++ benchmarking software design. Wrote design portion of paper, collaborated with team to create powerpoint, presented design and background information
 
-Freddy Estrada:
+Freddy Estrada: Collaborated in research, testing/verification, overall block design, packaging AES encryption into an IP, AXI memory mapping, SDK c++ application, benchmarking in SDK. Wrote abstract and introduction portion of paper, recorded demonstration video. 
 
 Raymond Banda:
 
