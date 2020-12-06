@@ -9,3 +9,5 @@ Freddy Estrada:
 Raymond Banda:
 
 Kyle Gerfen
+
+Personal note from Jeffrey Hymas: This was one of the best project teams I have had the opporutnity to work with in my 6 years of school. I can't speak highly enough of all the members of the team, and I hope I get a chance to work with them all again in the future.
